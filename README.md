@@ -1,1 +1,1 @@
-# smart-training-notifier
+[![Java CI with Gradle](https://github.com/FabiMamani/smart-training-notifier/actions/workflows/gradle.yml/badge.svg)](https://github.com/FabiMamani/smart-training-notifier/actions/workflows/gradle.yml)
